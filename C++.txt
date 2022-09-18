@@ -1,1 +1,2 @@
 adding a line to this file
+just a line before merging
